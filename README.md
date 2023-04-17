@@ -1,11 +1,5 @@
 # Recognition-emotions-of-Zelenskyi
 ![image](https://user-images.githubusercontent.com/101904816/232555517-113c3f09-15c2-4dc8-a709-f7cb7445e180.png)
-![IMAGE 2023-04-17 19:12:09](https://user-images.githubusercontent.com/101904816/232559841-1981d915-affe-4485-8b9d-3015e2a4738e.jpg)
-![IMAGE 2023-04-17 19:12:30](https://user-images.githubusercontent.com/101904816/232559914-a10ccb69-6a63-47eb-a6c0-b2c5821270ee.jpg)
-![IMAGE 2023-04-17 19:12:46](https://user-images.githubusercontent.com/101904816/232559977-5f25166a-239f-4918-9bfe-a929c0ded349.jpg)
-![IMAGE 2023-04-17 19:12:51](https://user-images.githubusercontent.com/101904816/232559990-efefa0b2-6cd8-4930-bf86-03c24ff298d9.jpg)
-![IMAGE 2023-04-17 19:12:57](https://user-images.githubusercontent.com/101904816/232560005-04121a84-a052-4f06-b476-d9140233a3b7.jpg)
-![IMAGE 2023-04-17 19:13:01](https://user-images.githubusercontent.com/101904816/232560026-85a07d63-b848-4462-90bb-fabef391788a.jpg)
 
 # 📷 Розпізнавання емоцій на мініатюрах відео
 
@@ -42,6 +36,12 @@
 - Функція передбачення 🔮
 - Прогнозування емоцій ✨
 - Створення візуалізацій емоцій 📈
+![IMAGE 2023-04-17 19:12:09](https://user-images.githubusercontent.com/101904816/232559841-1981d915-affe-4485-8b9d-3015e2a4738e.jpg)
+![IMAGE 2023-04-17 19:12:30](https://user-images.githubusercontent.com/101904816/232559914-a10ccb69-6a63-47eb-a6c0-b2c5821270ee.jpg)
+![IMAGE 2023-04-17 19:12:46](https://user-images.githubusercontent.com/101904816/232559977-5f25166a-239f-4918-9bfe-a929c0ded349.jpg)
+![IMAGE 2023-04-17 19:12:51](https://user-images.githubusercontent.com/101904816/232559990-efefa0b2-6cd8-4930-bf86-03c24ff298d9.jpg)
+![IMAGE 2023-04-17 19:12:57](https://user-images.githubusercontent.com/101904816/232560005-04121a84-a052-4f06-b476-d9140233a3b7.jpg)
+![IMAGE 2023-04-17 19:13:01](https://user-images.githubusercontent.com/101904816/232560026-85a07d63-b848-4462-90bb-fabef391788a.jpg)
 
 ## 🚀 Майбутня робота
 
